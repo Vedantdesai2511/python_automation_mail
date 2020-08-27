@@ -12,6 +12,6 @@
 * The code will analize the probability sheet format the analysis in nice table (using HTML) and send it to the reciver's mail address
 
 
-## credit 
+# Credits 
 * Market trader's institute - Probability sheeet
 * realpython.com - for mail automation guidance
