@@ -1,1 +1,7 @@
-"This cide aumates the process of analizing data present on the google sheet and sending the analusis via mail to the user" 
+"This cide aumates the process of analizing data present on the google sheet and sending the analusis via mail to the user"
+
+# Requiremets
+* beautifulsoup4 (bs4)
+* requests
+
+# Hoe to use the code
