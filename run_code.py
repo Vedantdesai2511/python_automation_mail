@@ -22,8 +22,7 @@ def run_code():
             Dict[x] = ""
 
     print(Dict)
-    page1 = requests.get('https://docs.google.com/spreadsheets/d/15Az6QQ5yaGh1giAME-5dKT3YABFqHvF7nqTbQS4bF5Y/edit'
-                         '#gid=0')
+    page1 = requests.get('')  # for link mail me at @vedantdesai07@gmail.com 
 
     soup1 = BeautifulSoup(page1.text, 'html.parser')
 
