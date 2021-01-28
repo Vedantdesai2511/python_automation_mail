@@ -56,9 +56,9 @@ def run_code():
 
     # Send Email
 
-    sender_email = "verdantlee1@gmail.com"
-    receiver_email = "verdantlee1@gmail.com"
-    password = "VerdantLee@12345"
+    sender_email = ""  # sender email
+    receiver_email = ""  # reciver email
+    password = ""  # Password of sender email
 
     message = MIMEMultipart("alternative")
     message["Subject"] = "Probability Sheet"
